@@ -25,7 +25,7 @@ export const sidebarItemsData = [
     },
     {
         icon: <PeopleIcon />,
-        text: "People and Groups"
+        text: "Peoples & Groups"
     },
     {
         icon: <AppsIcon />,
